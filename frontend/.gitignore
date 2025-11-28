@@ -32,3 +32,5 @@ npm-debug.log*
 # Environment
 .env
 .env.local
+.vercel
+.env*.local
